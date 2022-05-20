@@ -1,2 +1,2 @@
-# Storttellign App
+# Storytelling App
 
